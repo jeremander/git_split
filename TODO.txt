@@ -1,0 +1,6 @@
+- CLI
+- Choose language (Python supported for now)
+- Other dependency criteria (e.g. files?)
+- dot output
+- generate git commands to run (branch & cherry?)
+- split commits by file (equivalence classes of which future commits depend on them)
